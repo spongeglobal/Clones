@@ -17,3 +17,4 @@ Use this command to clone and change path as required
 (yarn )
 ( yarn run dev )
 
+see the website by visiting http://localhost:5173 i
